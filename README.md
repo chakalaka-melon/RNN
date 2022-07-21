@@ -9,6 +9,8 @@
 ```
 git clone git@github.com:chakalaka-melon/RNN.git
 
+cd RNN
+
 # 创建分支
 git branch {branch_name}
 
