@@ -10,7 +10,7 @@
 git clone git@github.com:chakalaka-melon/RNN.git
 
 # 创建分支
-gir branch {branch_name}
+git branch {branch_name}
 
 # 提交代码
 git add *
